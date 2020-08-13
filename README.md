@@ -1,6 +1,3 @@
-# Python-String-Paginator
-The function in this repository's main.py file is intended to be used for string pagination.
-
 The `paginate` function in `string_pagination.py` must be used with 2 parameters, `string` and `amount_of_chars`.
 
 Notes
